@@ -1,0 +1,14 @@
+{
+  "name": "searchable",
+  "owner": {
+    "name": "Searchable"
+  },
+  "description": "Official Searchable plugin for Claude Code.",
+  "plugins": [
+    {
+      "name": "searchable",
+      "source": "./",
+      "description": "AI visibility, site audits, and content tools for your Searchable workspace, via Searchable's hosted MCP server (OAuth sign-in)."
+    }
+  ]
+}

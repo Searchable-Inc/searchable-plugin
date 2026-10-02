@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "searchable": {
+      "serverUrl": "https://app.searchable.com/api/mcp-server/mcp"
+    }
+  }
+}

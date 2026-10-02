@@ -1,0 +1,12 @@
+{
+  "name": "searchable",
+  "version": "1.0.0",
+  "description": "AI visibility, site audits, and content tools for your Searchable workspace, via Searchable's hosted MCP server (OAuth sign-in).",
+  "author": {
+    "name": "Searchable",
+    "url": "https://www.searchable.com"
+  },
+  "homepage": "https://docs.searchable.com/integrations/mcp",
+  "license": "MIT",
+  "keywords": ["searchable", "searchable mcp"]
+}

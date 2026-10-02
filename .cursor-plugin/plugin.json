@@ -1,0 +1,15 @@
+{
+  "name": "searchable",
+  "displayName": "Searchable",
+  "version": "1.0.0",
+  "description": "AI visibility, site audits, and content tools for your Searchable workspace. Connects Cursor to Searchable's hosted MCP server; sign in with your Searchable account on first use.",
+  "author": {
+    "name": "Searchable"
+  },
+  "homepage": "https://docs.searchable.com/integrations/mcp",
+  "repository": "https://github.com/Searchable-Inc/searchable-plugin",
+  "license": "MIT",
+  "keywords": ["searchable", "ai-visibility", "geo", "seo", "llm-visibility", "site-audit", "content", "mcp"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

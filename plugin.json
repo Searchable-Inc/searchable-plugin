@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "searchable",
+  "version": "1.0.0",
+  "description": "AI visibility, site audits, and content tools for your Searchable workspace, via Searchable's hosted MCP server (OAuth sign-in).",
+  "author": {
+    "name": "Searchable",
+    "url": "https://www.searchable.com"
+  },
+  "homepage": "https://docs.searchable.com/integrations/mcp",
+  "repository": "https://github.com/Searchable-Inc/searchable-plugin",
+  "license": "MIT",
+  "keywords": ["searchable", "ai-visibility", "geo", "seo", "llm-visibility", "site-audit", "content", "mcp"]
+}

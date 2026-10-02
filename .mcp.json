@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "searchable": {
+      "type": "http",
+      "url": "https://app.searchable.com/api/mcp-server/mcp"
+    }
+  }
+}
