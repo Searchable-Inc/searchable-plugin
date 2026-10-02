@@ -4,7 +4,7 @@ Connect your AI coding agent to [Searchable](https://www.searchable.com): see ho
 
 This plugin contains no code. It registers Searchable's hosted MCP server:
 
-```
+```text
 https://app.searchable.com/api/mcp-server/mcp
 ```
 
@@ -28,6 +28,10 @@ https://app.searchable.com/api/mcp-server/mcp
 
 No API key is needed. The first time your agent calls a Searchable tool, your client opens a browser window to sign in to Searchable and approve access (OAuth 2.1). You choose which projects the connection can see. To disconnect, log out of the server in your client's MCP settings.
 
+## Network and credentials
+
+The plugin connects only to `app.searchable.com`: the MCP server above and its OAuth endpoints. It reads no environment variables, files or local credentials, and runs no commands. The only credential is the OAuth token your client receives when you sign in, which your client stores.
+
 ## What you can ask
 
 - "List my Searchable projects."
@@ -43,7 +47,7 @@ Use of Searchable through this plugin is governed by the [Searchable Terms](http
 
 ## Support
 
-See [docs.searchable.com](https://docs.searchable.com) or contact Searchable support from the app.
+Email [support@searchable.com](mailto:support@searchable.com), or see [docs.searchable.com](https://docs.searchable.com).
 
 ## License
 
