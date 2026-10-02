@@ -10,6 +10,6 @@
   "repository": "https://github.com/Searchable-Inc/searchable-plugin",
   "license": "MIT",
   "keywords": ["searchable", "ai-visibility", "geo", "seo", "llm-visibility", "site-audit", "content", "mcp"],
-  "logo": "assets/logo.svg",
+  "logo": "assets/logo.png",
   "mcpServers": "./mcp.json"
 }
